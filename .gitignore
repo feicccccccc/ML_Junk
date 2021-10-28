@@ -136,3 +136,9 @@ data/
 
 # Remove lightning log
 lightning_logs/
+
+# Remove PyCharm config
+.idea/
+
+# Remove wandb log
+wandb/
