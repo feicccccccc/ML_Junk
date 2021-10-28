@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Remove temp data set
+data/
+
+# Remove notebook ckpt
+.ipynb_checkpoints/
