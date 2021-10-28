@@ -133,3 +133,6 @@ data/
 
 # Remove notebook ckpt
 .ipynb_checkpoints/
+
+# Remove lightning log
+lightning_logs/
