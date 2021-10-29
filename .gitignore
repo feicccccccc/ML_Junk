@@ -142,3 +142,5 @@ lightning_logs/
 
 # Remove wandb log
 wandb/
+double_descent/test_Double_Descent/
+
